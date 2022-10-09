@@ -8,11 +8,9 @@
     <price>30.00</price>
   </book>
 
-  <book category="children">
-    <title lang="en">Harry Potter</title>
-    <author>J K. Rowling</author>
-    <year>2005</year>
-    <price>29.99</price>
-  </book>
+  
+  
+  
+  
 
 </bookstore>
